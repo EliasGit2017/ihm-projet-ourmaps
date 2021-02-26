@@ -15,7 +15,7 @@ function CardItem(props) {
                 </Link>
             </li>   
         </>
-    )
+    );
 }
 
-export default CardItem
+export default CardItem;
