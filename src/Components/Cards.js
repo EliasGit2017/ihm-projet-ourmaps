@@ -33,7 +33,6 @@ function Cards() {
                             label="Interviews" 
                             path='/services'
                         />
-                        {/*Add Cards here*/}
                     </ul>
                 </div>
             </div>

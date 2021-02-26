@@ -1,7 +1,7 @@
 import React from 'react';
 import '../App.css';
 import { Button } from './Button';
-import './HeroSection.css';
+import './HeroSection.css'; 
 
 function HeroSection() {
     return (
@@ -14,11 +14,11 @@ function HeroSection() {
                     Joins US
                 </Button>
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                    Joins US ANYWAY {/*<i className='far fa-play-circle' />*/}
+                    Joins US ANYWAY 
                 </Button>
             </div>
         </div>
-    )
+    );
 }
 
 export default HeroSection;

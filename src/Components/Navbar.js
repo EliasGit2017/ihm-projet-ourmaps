@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+// eslint-disable-next-line
 import { Button } from './Button';
 import './Navbar.css';
 
 
 function Navbar() {
     const [click, setClick] = useState(false);
+    // eslint-disable-next-line
     const [button, setButton] = useState(true);
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
@@ -48,13 +50,8 @@ function Navbar() {
                             Pricing
                         </Link>
                     </li>
-                    {/*<li className='nav-item'>
-                        <Link to='/sign-up' className='nav-links' onClick={closeMobileMenu}>
-                            Sign Up
-                        </Link>
-    </li>*/}
+
                 </ul>
-                {/*{button && <Button buttonStyle='btn--outline'>Sign UP</Button>}*/}
                 </div>
             </nav>
         </>
