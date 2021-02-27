@@ -10,7 +10,7 @@ import SignUp from './Components/pages/SignUp'
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/ihm-projet-ourmaps">
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
