@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.43519515.chunk.css",
-    "main.js": "./static/js/main.812db58a.chunk.js",
-    "main.js.map": "./static/js/main.812db58a.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.c94e0acb.js",
-    "runtime-main.js.map": "./static/js/runtime-main.c94e0acb.js.map",
-    "static/js/2.a08e07b3.chunk.js": "./static/js/2.a08e07b3.chunk.js",
-    "static/js/2.a08e07b3.chunk.js.map": "./static/js/2.a08e07b3.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.43519515.chunk.css.map": "./static/css/main.43519515.chunk.css.map",
-    "static/js/2.a08e07b3.chunk.js.LICENSE.txt": "./static/js/2.a08e07b3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/int-14.c365f0f3.jpg"
+    "main.css": "/ihm-projet-ourmaps/static/css/main.403b7c25.chunk.css",
+    "main.js": "/ihm-projet-ourmaps/static/js/main.04d43879.chunk.js",
+    "main.js.map": "/ihm-projet-ourmaps/static/js/main.04d43879.chunk.js.map",
+    "runtime-main.js": "/ihm-projet-ourmaps/static/js/runtime-main.71049314.js",
+    "runtime-main.js.map": "/ihm-projet-ourmaps/static/js/runtime-main.71049314.js.map",
+    "static/js/2.a08e07b3.chunk.js": "/ihm-projet-ourmaps/static/js/2.a08e07b3.chunk.js",
+    "static/js/2.a08e07b3.chunk.js.map": "/ihm-projet-ourmaps/static/js/2.a08e07b3.chunk.js.map",
+    "index.html": "/ihm-projet-ourmaps/index.html",
+    "static/css/main.403b7c25.chunk.css.map": "/ihm-projet-ourmaps/static/css/main.403b7c25.chunk.css.map",
+    "static/js/2.a08e07b3.chunk.js.LICENSE.txt": "/ihm-projet-ourmaps/static/js/2.a08e07b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c94e0acb.js",
+    "static/js/runtime-main.71049314.js",
     "static/js/2.a08e07b3.chunk.js",
-    "static/css/main.43519515.chunk.css",
-    "static/js/main.812db58a.chunk.js"
+    "static/css/main.403b7c25.chunk.css",
+    "static/js/main.04d43879.chunk.js"
   ]
 }
