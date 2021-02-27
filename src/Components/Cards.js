@@ -10,25 +10,25 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                            src="images/lol.jpg" 
+                            src="/images/lol.jpg"
                             text="Check out the interviews made by Damien"
                             label="Interviews" 
                             path='/services'
                         />
                         <CardItem 
-                            src="images/img-11.jpg" 
+                            src="/images/img-11.jpg" 
                             text="Check out the interviews made by Lyna"
                             label="Interviews" 
                             path='/services'
                         />
                         <CardItem 
-                            src="images/img-12.jpg" 
+                            src="/images/img-12.jpg" 
                             text="Check out the interviews made by Elias"
                             label="Interviews" 
                             path='/services'
                         />
                         <CardItem 
-                            src="images/img-13.jpg" 
+                            src="/images/img-13.jpg" 
                             text="Check out the interviews made by Sarah"
                             label="Interviews" 
                             path='/services'
