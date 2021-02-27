@@ -50,7 +50,6 @@ function Navbar() {
                             Monay
                         </Link>
                     </li>
-
                 </ul>
                 </div>
             </nav>
