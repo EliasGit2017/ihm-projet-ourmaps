@@ -8,11 +8,10 @@ function Footer() {
         <div className='footer-container'>
             <section className='footer-subscription'>
                 <p className='footer-subscription-heading'>
-                    This website is in construction, so please be kind and give us the time to finish it. It's not like we were not in a middle of a fucking pandemic and that 
-                    people are busy doing other stuff like I don't know, ... maybe ... JUST SURVIVE?
+                    This website is in construction, so please be kind and give us the time to finish it.
                 </p>
                 <p className="footer-subscription-text">
-                    Anyway, subscribe to out newsletter, You can NOT unsubscribe at any time.
+                    Subscribe to our newsletter, You can unsubscribe at any time.
                 </p>
                 <div className='input-areas'>
                     <form>
