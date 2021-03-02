@@ -33,6 +33,12 @@ function Cards() {
                             label="Interviews" 
                             gotothis="https://github.com/DamienLegros/IHMPROJECT/blob/main/Interviews%20Sarah/interview%20sarah%20-%20R%C3%A9ponses%20au%20formulaire%201.pdf"
                         />
+                        <CardItem 
+                            src={process.env.PUBLIC_URL+"/images/lost_dav.jpg"}
+                            text="Check out the interviews made by David"
+                            label="Interviews" 
+                            gotothis="https://github.com/DamienLegros/IHMPROJECT/blob/main/Interviews%20David/IHM-Interview.pdf"
+                        />
                     </ul>
                 </div>
             </div>
