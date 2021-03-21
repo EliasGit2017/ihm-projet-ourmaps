@@ -8,10 +8,10 @@ function Footer() {
         <div className='footer-container'>
             <section className='footer-subscription'>
                 <p className='footer-subscription-heading'>
-                    This website is in construction, so please be kind and give us the time to finish it.
+                    Leave us your email, we'll take care of you ;-)
                 </p>
                 <p className="footer-subscription-text">
-                    Subscribe to our newsletter, You can unsubscribe at any time.
+                    Subscribe to our newsletter (you can unsubscribe at any time)
                 </p>
                 <div className='input-areas'>
                     <form>
@@ -30,14 +30,14 @@ function Footer() {
                         <Link to='/'>Investors</Link>
                         <Link to='/'>Terms of Service</Link>
                     </div>
-                    <div className='footer-link-items'>
+                    {/*<div className='footer-link-items'>
                         <h2>Videos</h2>
                         <Link to='/sign-up'> How it works</Link>
                         <Link to='/'>Testimonials</Link>
                         <Link to='/'>Carreers</Link>
                         <Link to='/'>Investors</Link>
                         <Link to='/'>Terms of Service</Link>
-                    </div>
+                    </div>*/}
                 </div>
         
             </div>
