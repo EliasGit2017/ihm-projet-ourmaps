@@ -5,6 +5,7 @@ import Cards from '../Cards';
 import Footer from '../Footer';
 import Material from '../Material'; 
 import Material2 from '../Material2';
+import VideosEnd from '../VideosEnd'
 
 
 function Home () {
@@ -14,6 +15,7 @@ function Home () {
             <Cards />
             <Material />
             <Material2 />
+            <VideosEnd />
             <Footer />
         </>
     );

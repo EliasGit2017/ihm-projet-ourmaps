@@ -22,7 +22,7 @@ function Footer() {
             </section>
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
-                    <div className='footer-link-items'>
+                    {/*<div className='footer-link-items'>
                         <h2>About us</h2>
                         <Link to='/sign-up'> How it works</Link>
                         <Link to='/'>Testimonials</Link>
@@ -48,7 +48,7 @@ function Footer() {
                             Mappy <i className='fab fa-grav' />
                         </Link>
                     </div>
-                    <small className='website-rights'>Mappy 2021 No copyrights infringement allowed, it is ours and that's how we like it</small>
+                    <small className='website-rights'>Mappy 2021 No copyrights infringement allowed, it is ours and that's how we like it ;-)</small>
                     <div className="social-icons">
                         <Link className="social-icon-link facebook"
                             to='/'
