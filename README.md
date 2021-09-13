@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+## Planning
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 3 Février : 
 
-## Available Scripts
+    Présentation / définition du projet
+    Création d’un blog (par exemple Github; m'envoyer un mail me permettant d'y accéder)
+    Introspection
+    réalisation d’interviews (au moins une par personne, idéalement 2) à faire entre le 3 Février et le 12 Février. Trouver des histoires sur un événement récent et mémorable utilisant une carte pour résoudre ou illustrant un problème. Enregistrer les questions et les réponses. D'expérience, cette étape est probablement la plus importante. C'est votre base pour faire le projet. Il y a un lien direct entre la qualité des interviews et la qualité du projet finale. Ne sous-estimer surtout pas cette étape.  
+    Observations (1 par personne) si possible...
 
-In the project directory, you can run:
+### 10 Février : 
 
-### `npm start`
+    Mise en commun des résultats
+    Définition des interaction points. Convertir le incidents clés capturés pendant les interviews comme des "interaction points"
+    personas and Extreme characters
+    Scenarios
+    Autres ressources possibles : interaction points 2, user profile, breakdown analysis
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 17 Février : 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    Standard brainstorming
+    Design dimensions
+    Design space
+    Autres ressources possibles : video brainstorming, web search
 
-### `npm test`
+### 3 Mars : 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    Storyboard, paper prototype et video prototype
+    Vous avez 2h pour créer au moins 4 video prototypes par groupe. Vous trouverez quelques exemples ainsi que des ressources pour vous aider.
+    
+### 3 Mars - 24 Mars : 
 
-### `npm run build`
+    Itérer sur votre concept et prototypes vidéos
+    Préparation de la présentation finale
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###24 Mars
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Présentation finale
