@@ -41,12 +41,12 @@ function Material() {
                         />
                         
                         
-                        {/*<CardItem 
+                        <CardItem 
                             src={process.env.PUBLIC_URL+"/images/proto.jpg"}
                             text="Check out the personas we established"
                             label="Personas" 
                             gotothis="https://drive.google.com/drive/folders/1dL-aGh1hwKED5McEInfLjDswSzzQq4Ly"
-                        />
+                        />{/*
                         <CardItem 
                             src={process.env.PUBLIC_URL+"/images/proto.jpg"}
                             text="Check out the design spaces we established"
